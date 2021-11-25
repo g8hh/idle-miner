@@ -4974,7 +4974,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		}
 		this.cGames.addEventListener("click", goCG.bind(this));
 		function goCG() {
-			window.open("http://crazygames.com/", "_blank");
+			window.open("http://gityx.com/", "_blank");
 		}
 		
 		const crazysdk = window.CrazyGames.CrazySDK.getInstance(); //Getting the SDK
