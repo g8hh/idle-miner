@@ -1397,7 +1397,7 @@ p.nominalBounds = new cjs.Rectangle(-2,-0.9,52,36);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Upgrades", "bold 30px 'Arial'");
+	this.text = new cjs.Text("升级", "bold 30px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 36;
 	this.text.lineWidth = 657;
@@ -1457,55 +1457,55 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,34,34);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Buy different upgrades here", "bold 16px 'Arial'");
+	this.text = new cjs.Text("在这里购买不同的升级", "bold 16px 'Arial'");
 	this.text.lineHeight = 20;
 	this.text.lineWidth = 154;
 	this.text.parent = this;
 	this.text.setTransform(120.1,20.75);
 
-	this.text_1 = new cjs.Text("Money is used for crafting and upgrades. You get a crystal after mining a block with a chance", "bold 20px 'Arial'");
+	this.text_1 = new cjs.Text("金钱用于制作和升级。 有机会开采一个方块后你会得到一个水晶", "bold 20px 'Arial'");
 	this.text_1.lineHeight = 24;
 	this.text_1.lineWidth = 279;
 	this.text_1.parent = this;
 	this.text_1.setTransform(976.75,514.05);
 
-	this.text_2 = new cjs.Text("Use your money, crystals and resources to craft better pixs", "bold 15px 'Arial'");
+	this.text_2 = new cjs.Text("使用您的金钱、水晶和资源来制作更好的像素", "bold 15px 'Arial'");
 	this.text_2.lineHeight = 19;
 	this.text_2.lineWidth = 230;
 	this.text_2.parent = this;
 	this.text_2.setTransform(603.9,384.65);
 
-	this.text_3 = new cjs.Text("Here is your current pickaxe", "bold 15px 'Arial'");
+	this.text_3 = new cjs.Text("这是你当前的镐子", "bold 15px 'Arial'");
 	this.text_3.lineHeight = 19;
 	this.text_3.lineWidth = 175;
 	this.text_3.parent = this;
 	this.text_3.setTransform(645.75,170.05);
 
-	this.text_4 = new cjs.Text("Change your mine lv to mine better ores", "bold 15px 'Arial'");
+	this.text_4 = new cjs.Text("改变你的矿山等级以开采更好的矿石", "bold 15px 'Arial'");
 	this.text_4.lineHeight = 19;
 	this.text_4.lineWidth = 168;
 	this.text_4.parent = this;
 	this.text_4.setTransform(332.85,92.85);
 
-	this.text_5 = new cjs.Text("After crafting you can equip different pickaxes", "bold 15px 'Arial'");
+	this.text_5 = new cjs.Text("制作完成后你可以装备不同的镐", "bold 15px 'Arial'");
 	this.text_5.lineHeight = 19;
 	this.text_5.lineWidth = 307;
 	this.text_5.parent = this;
 	this.text_5.setTransform(552.35,658);
 
-	this.text_6 = new cjs.Text("You can spend or sell your resources", "bold 15px 'Arial'");
+	this.text_6 = new cjs.Text("您可以花费或出售您的资源", "bold 15px 'Arial'");
 	this.text_6.lineHeight = 19;
 	this.text_6.lineWidth = 170;
 	this.text_6.parent = this;
 	this.text_6.setTransform(1027.55,124.35);
 
-	this.text_7 = new cjs.Text("Here is your mine. Cat mines different resources", "bold 15px 'Arial'");
+	this.text_7 = new cjs.Text("这是你的矿山。 小猫开采不同的资源", "bold 15px 'Arial'");
 	this.text_7.lineHeight = 19;
 	this.text_7.lineWidth = 141;
 	this.text_7.parent = this;
 	this.text_7.setTransform(136.9,135.3);
 
-	this.text_8 = new cjs.Text("click the bell to speed up your cat", "bold 15px 'Arial'");
+	this.text_8 = new cjs.Text("点击铃铛加速你的小猫", "bold 15px 'Arial'");
 	this.text_8.lineHeight = 19;
 	this.text_8.lineWidth = 141;
 	this.text_8.parent = this;
@@ -1591,7 +1591,7 @@ p.nominalBounds = new cjs.Rectangle(-2.8,-1.1,31.7,33.1);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Sell", "bold 22px 'Arial'");
+	this.text = new cjs.Text("出售", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 100;
@@ -1644,7 +1644,7 @@ p.nominalBounds = new cjs.Rectangle(-0.1,-0.2,49,16);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Prestige", "bold 22px 'Arial'");
+	this.text = new cjs.Text("声望", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 100;
@@ -1669,7 +1669,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.st4 = new cjs.Text("Click 5 times to prestige", "bold 22px 'Arial'", "#000033");
+	this.st4 = new cjs.Text("点击5次以声望", "bold 22px 'Arial'", "#000033");
 	this.st4.name = "st4";
 	this.st4.textAlign = "center";
 	this.st4.lineHeight = 27;
@@ -1677,21 +1677,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.st4.parent = this;
 	this.st4.setTransform(80.55,68.45,0.4576,0.4576);
 
-	this.st3 = new cjs.Text("Crystal Gain: x1 -> x2", "bold 22px 'Arial'", "#000033");
+	this.st3 = new cjs.Text("水晶增益: x1 -> x2", "bold 22px 'Arial'", "#000033");
 	this.st3.name = "st3";
 	this.st3.lineHeight = 27;
 	this.st3.lineWidth = 305;
 	this.st3.parent = this;
 	this.st3.setTransform(10.8,34.45,0.4576,0.4576);
 
-	this.st2 = new cjs.Text("Fall Speed: x1 -> x1.87", "bold 22px 'Arial'", "#000033");
+	this.st2 = new cjs.Text("掉落速度: x1 -> x1.87", "bold 22px 'Arial'", "#000033");
 	this.st2.name = "st2";
 	this.st2.lineHeight = 27;
 	this.st2.lineWidth = 305;
 	this.st2.parent = this;
 	this.st2.setTransform(10.8,21.4,0.4576,0.4576);
 
-	this.st1 = new cjs.Text("Pix DMG: x1 -> x2", "bold 22px 'Arial'", "#000033");
+	this.st1 = new cjs.Text("像素伤害: x1 -> x2", "bold 22px 'Arial'", "#000033");
 	this.st1.name = "st1";
 	this.st1.lineHeight = 27;
 	this.st1.lineWidth = 305;
@@ -1712,7 +1712,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.sale2 = new cjs.Text("Sell 100,000 for 211,800$", "bold 20px 'Arial'");
+	this.sale2 = new cjs.Text("出售 100,000 获得 211,800$", "bold 20px 'Arial'");
 	this.sale2.name = "sale2";
 	this.sale2.textAlign = "center";
 	this.sale2.lineHeight = 24;
@@ -1720,7 +1720,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.sale2.parent = this;
 	this.sale2.setTransform(80.4142,26.75,0.5854,0.5854);
 
-	this.sale1 = new cjs.Text("Sell 1 for 100$", "bold 20px 'Arial'");
+	this.sale1 = new cjs.Text("出售 1 获得 100$", "bold 20px 'Arial'");
 	this.sale1.name = "sale1";
 	this.sale1.textAlign = "center";
 	this.sale1.lineHeight = 24;
@@ -1742,7 +1742,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.namee = new cjs.Text("Cryptonite", "bold 20px 'Arial'");
+	this.namee = new cjs.Text("隐石", "bold 20px 'Arial'");
 	this.namee.name = "namee";
 	this.namee.textAlign = "center";
 	this.namee.lineHeight = 24;
@@ -1764,7 +1764,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.sellfor = new cjs.Text("Sell for 100,000 $", "bold 20px 'Arial'");
+	this.sellfor = new cjs.Text("出售获得 100,000 $", "bold 20px 'Arial'");
 	this.sellfor.name = "sellfor";
 	this.sellfor.textAlign = "center";
 	this.sellfor.lineHeight = 24;
@@ -1772,7 +1772,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.sellfor.parent = this;
 	this.sellfor.setTransform(56.4,62.8,0.5703,0.5703);
 
-	this.spd = new cjs.Text("Speed: 1.02s", "bold 20px 'Arial'");
+	this.spd = new cjs.Text("速度: 1.02s", "bold 20px 'Arial'");
 	this.spd.name = "spd";
 	this.spd.textAlign = "center";
 	this.spd.lineHeight = 24;
@@ -1788,7 +1788,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.dps.parent = this;
 	this.dps.setTransform(56.4,18.25,0.5703,0.5703);
 
-	this.dmg = new cjs.Text("Damage: 100,000", "bold 20px 'Arial'");
+	this.dmg = new cjs.Text("伤害: 100,000", "bold 20px 'Arial'");
 	this.dmg.name = "dmg";
 	this.dmg.textAlign = "center";
 	this.dmg.lineHeight = 24;
@@ -2419,7 +2419,7 @@ p.nominalBounds = new cjs.Rectangle(-1.2,-1.2,33,38);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Forge", "bold 22px 'Arial'");
+	this.text = new cjs.Text("锻造", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 100;
@@ -2447,7 +2447,7 @@ p.nominalBounds = new cjs.Rectangle(-0.9,-0.9,105.9,34.699999999999996);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Equip", "bold 22px 'Arial'");
+	this.text = new cjs.Text("装备", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 100;
@@ -2777,7 +2777,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,40.7,3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("AUTO", "bold 22px 'Arial'");
+	this.text = new cjs.Text("自动", "bold 22px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.lineWidth = 73;
@@ -2802,7 +2802,7 @@ p.nominalBounds = new cjs.Rectangle(-0.9,-0.9,37,15);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Слой_1
-	this.text = new cjs.Text("Watch an ad to get free\n5 min of SpeedUP", "bold 21px 'Consolas'", "#003300");
+	this.text = new cjs.Text("观看广告获得免费\n5 分钟加速", "bold 21px 'Consolas'", "#003300");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 27;
 	this.text.parent = this;
@@ -3034,7 +3034,7 @@ p.nominalBounds = new cjs.Rectangle(-28.2,-17.2,56,35);
 	this.change.parent = this;
 	this.change.setTransform(86.8,34.05,1.1174,1.1174);
 
-	this.namee = new cjs.Text("Max Craft Crystals", "bold 15px 'Arial'");
+	this.namee = new cjs.Text("最大工艺水晶", "bold 15px 'Arial'");
 	this.namee.name = "namee";
 	this.namee.textAlign = "center";
 	this.namee.lineHeight = 19;
@@ -5027,7 +5027,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		    fps = 30;
 			fps2 = 30;
 			this.helpSplash.alpha = 1;
-			this.helpSplash.text = "Here was an error with an ad but anyway here is 1.5 mins of bonus time for you ;)";
+			this.helpSplash.text = "这是一个广告错误，但无论如何这里有 1.5 分钟的奖励时间给你 ;)";
 			speedUPtime_ib += 90;
 			respawn = 300;
 		}
@@ -5036,7 +5036,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		    fps = 30;
 			fps2 = 30;
 			this.helpSplash.alpha = 1;
-			this.helpSplash.text = "Thanks very much for watching. Here is your bonus 5 mins!";
+			this.helpSplash.text = "非常感谢观看。 这是您的奖金 5 分钟！";
 			speedUPtime_ib += 300;
 			respawn = 300;
 		}
@@ -5055,7 +5055,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			var mGet = costs[Math.min(24, Math.floor(stageMax/5))].times(sellPrice).times(infMult2).times(50);
 			money = money.plus(mGet);
 			
-			this.helpSplash.text = "U got " + format(mGet) + " $";
+			this.helpSplash.text = "你得到了 " + format(mGet) + " $";
 			
 			respawn = 160;
 		}
@@ -5153,7 +5153,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 				this.speedUP_b.visible = true;
 				this.spdUP.visible = true;
 				this.spdTime.visible = true;
-				this.spdUP.text = "SpeedUP (x2, max 30m)";
+				this.spdUP.text = "加速 (x2, 最多 30分钟)";
 				this.spdTime.text = Math.floor(speedUPtime_ib*10)/10 + "s";
 				
 				if (sActive == true) {
@@ -5580,17 +5580,17 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			catMove = 1 * cspd * cSpd2;
 			catDMG = pick.damage;
 			
-			this.mineLv.text = "Mine Level: " + stagei;
+			this.mineLv.text = "矿山等级: " + stagei;
 			
-			this.moneyt.text = "Money: " + format(money);
-			this.cryst.text = "Crystals: " + format(crystals);
+			this.moneyt.text = "金钱: " + format(money);
+			this.cryst.text = "水晶: " + format(crystals);
 			
 			
 			crystals = crystals.plus(passiveGems.div(fps/timeMult).div(60).times(gemMult));
 			
 			
 			
-			this.cspd.text = "Cat Speed: " + Math.round(cspd*100) + "%";
+			this.cspd.text = "小猫速度: " + Math.round(cspd*100) + "%";
 			
 			if (cspd > 1) {
 				cspd -= 0.02/30;
@@ -5673,10 +5673,10 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			
 			
 			this.pixs.gotoAndStop(Math.min(24, pick.level));
-			this.namee.text = rarPrefix(pick.rarity) + " " + matName(pick.level) + " Pickaxe";
+			this.namee.text = rarPrefix(pick.rarity) + " " + matName(pick.level) + " 镐";
 			this.dmg.text = format(pick.damage);
 			this.dps.text = "DPS: " + format(pick.dps);
-			this.spd.text = "Speed: " + Math.round(pick.speed*100)/100 + "s";
+			this.spd.text = "速度: " + Math.round(pick.speed*100)/100 + "秒";
 			this.lev.text = Math.round(pick.level);
 			this.rar.text = shortt(pick.rarity);
 			
@@ -9023,7 +9023,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			this.sellP1.part.text = "1";
 			this.sellP2.part.text = "10%";
 			this.sellP3.part.text = "50%";
-			this.sellP4.part.text = "ALL";
+			this.sellP4.part.text = "全部";
 			
 			if (sellPart == 1) {
 				this.sellP1.gotoAndStop(1);
@@ -9063,11 +9063,11 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			this.needMat.text = matName(Math.min(24, craftLv)) + " x" + format(nd(10).times(infMult2));
 			this.mate.gotoAndStop(Math.min(24, craftLv));
 			
-			this.crcr.text = "Crystals: " + format(craftCr);
+			this.crcr.text = "水晶: " + format(craftCr);
 			
 			
 			craftCost = costs[Math.min(24, craftLv)].times(10).times(infMult2);
-			this.crcst.text = "Cost: " + format(craftCost);
+			this.crcst.text = "成本: " + format(craftCost);
 			
 			this.mlv.text = Math.round(craftLv);
 			
@@ -9414,39 +9414,39 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			passiveGems_next = nd(upgrades[8].lv+1);
 			
 			
-			this.upgWindow.u1.namee.text = "Crystal Chance";
+			this.upgWindow.u1.namee.text = "水晶几率";
 			this.upgWindow.u1.change.text = Math.round(cChance*1000)/10 + "% -> " + Math.round(cChance_next*1000)/10 + "%";
 			this.upgWindow.u1.cost.text = format(upgrades[0].totalCost) + "$";
 			
-			this.upgWindow.u2.namee.text = "Move Speed";
+			this.upgWindow.u2.namee.text = "移动速度";
 			this.upgWindow.u2.change.text = "x" + Math.round(cSpd2*100)/100 + " -> x" + Math.round(cSpd2_next*100)/100;
 			this.upgWindow.u2.cost.text = format(upgrades[1].totalCost) + "$";
 			
-			this.upgWindow.u3.namee.text = "x2 Ore Chance";
+			this.upgWindow.u3.namee.text = "x2 矿石几率";
 			this.upgWindow.u3.change.text = Math.round(x2chance*10000)/100 + "% -> " + Math.round(x2chance_next*10000)/100 + "%";
 			this.upgWindow.u3.cost.text = format(upgrades[2].totalCost) + "$";
 			
-			this.upgWindow.u4.namee.text = "Pix Damage";
+			this.upgWindow.u4.namee.text = "像素伤害";
 			this.upgWindow.u4.change.text = "x" + format(pDamage) + " -> x" + format(pDamage_next);
 			this.upgWindow.u4.cost.text = format(upgrades[3].totalCost) + "$";
 			
-			this.upgWindow.u5.namee.text = "Max Craft Crystals";
+			this.upgWindow.u5.namee.text = "最大工艺水晶";
 			this.upgWindow.u5.change.text = format(craftCrMax) + " -> " + format(craftCrMax_next);
 			this.upgWindow.u5.cost.text = format(upgrades[4].totalCost) + "$";
 			
-			this.upgWindow.u6.namee.text = "Sell Prices";
+			this.upgWindow.u6.namee.text = "出售价格";
 			this.upgWindow.u6.change.text = "x" + format(sellPrice) + " -> x" + format(sellPrice_next);
 			this.upgWindow.u6.cost.text = format(upgrades[5].totalCost) + "$";
 			
-			this.upgWindow.u7.namee.text = "Better Craft";
-			this.upgWindow.u7.change.text = "Lv." + format(betterCraft) + " -> Lv." + format(betterCraft_next);
+			this.upgWindow.u7.namee.text = "更好的工艺";
+			this.upgWindow.u7.change.text = "等级." + format(betterCraft) + " -> Lv." + format(betterCraft_next);
 			this.upgWindow.u7.cost.text = format(upgrades[6].totalCost) + "$";
 			
-			this.upgWindow.u8.namee.text = "Pix Speed";
+			this.upgWindow.u8.namee.text = "像素速度";
 			this.upgWindow.u8.change.text = "x" + format(betterSpd) + " -> x" + format(betterSpd_next);
 			this.upgWindow.u8.cost.text = format(upgrades[7].totalCost) + "$";
 			
-			this.upgWindow.u9.namee.text = "Passive Crystals";
+			this.upgWindow.u9.namee.text = "被动水晶";
 			this.upgWindow.u9.change.text = format(passiveGems.times(gemMult)) + "/min -> " + format(passiveGems_next.times(gemMult)) + "/min";
 			this.upgWindow.u9.cost.text = format(upgrades[8].totalCost) + "$";
 			
@@ -9487,11 +9487,11 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			fallSpd_next = 1 + Math.max(prestigeLv, stageMax)/50;
 			gemMult_next = nd(1 + Math.max(prestigeLv, stageMax)/100);
 			
-			this.presPopup.st1.text = "Pix DMG: x" + format(dmgBonus) + " -> " + format(dmgBonus_next);
-			this.presPopup.st2.text = "Fall Speed: x" + format(nd(fallSpd)) + " -> " + format(nd(fallSpd_next));
-			this.presPopup.st3.text = "Crystal Gain: x" + format(nd(gemMult)) + " -> " + format(nd(gemMult_next));
+			this.presPopup.st1.text = "像素伤害: x" + format(dmgBonus) + " -> " + format(dmgBonus_next);
+			this.presPopup.st2.text = "掉落速度: x" + format(nd(fallSpd)) + " -> " + format(nd(fallSpd_next));
+			this.presPopup.st3.text = "水晶增益: x" + format(nd(gemMult)) + " -> " + format(nd(gemMult_next));
 			
-			this.presPopup.st4.text = "Click " + Math.round(prClicks) + " times to prestige";
+			this.presPopup.st4.text = "点击 " + Math.round(prClicks) + " 次以声望";
 			
 			
 			if (stagei < 120) {
@@ -10401,64 +10401,64 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		
 		function rarPrefix(rar) {
 			if (rar < 20) {
-				return "Awful";
+				return "可怕的";
 			}
 			else if (rar < 30) {
-				return "Bad";
+				return "坏的";
 			}
 			else if (rar < 40) {
-				return "Poor";
+				return "垃圾的";
 			}
 			else if (rar < 60) {
-				return "Common";
+				return "普通的";
 			}
 			else if (rar < 90) {
-				return "Good";
+				return "不错的";
 			}
 			else if (rar < 120) {
-				return "Great";
+				return "伟大的";
 			}
 			else if (rar < 300) {
-				return "Amazing";
+				return "神奇的";
 			}
 			else if (rar < 1000) {
-				return "Super";
+				return "超级的";
 			}
 			else if (rar < 10000) {
-				return "OMG";
+				return "哇噻的";
 			}
 			else {
-				return "Godly";
+				return "神佑的";
 			}
 		}
 		
 		
 		function matName(mat) {
-			if (mat == 0) return "Mud";
-			else if (mat == 1) return "Paper";
-			else if (mat == 2) return "Stone";
-			else if (mat == 3) return "Coal";
-			else if (mat == 4) return "Bone";
-			else if (mat == 5) return "Copper";
-			else if (mat == 6) return "Iron";
-			else if (mat == 7) return "Quartz";
-			else if (mat == 8) return "Silver";
-			else if (mat == 9) return "Topaz";
-			else if (mat == 10) return "Emerald";
-			else if (mat == 11) return "Ruby";
-			else if (mat == 12) return "Sapphire";
-			else if (mat == 13) return "Gold";
-			else if (mat == 14) return "Platinum";
-			else if (mat == 15) return "Diamond";
-			else if (mat == 16) return "Mithril";
-			else if (mat == 17) return "Obsidian";
-			else if (mat == 18) return "Bedrock";
-			else if (mat == 19) return "Cryptonite";
-			else if (mat == 20) return "Lightstone";
-			else if (mat == 21) return "Darkstone";
-			else if (mat == 22) return "Holystone";
-			else if (mat == 23) return "Hellstone";
-			else if (mat >= 24) return "Infinitum";
+			if (mat == 0) return "泥";
+			else if (mat == 1) return "纸";
+			else if (mat == 2) return "石头";
+			else if (mat == 3) return "煤";
+			else if (mat == 4) return "骨头";
+			else if (mat == 5) return "铜";
+			else if (mat == 6) return "铁";
+			else if (mat == 7) return "石英";
+			else if (mat == 8) return "银";
+			else if (mat == 9) return "黄玉";
+			else if (mat == 10) return "祖母绿";
+			else if (mat == 11) return "红宝石";
+			else if (mat == 12) return "蓝宝石";
+			else if (mat == 13) return "黄金";
+			else if (mat == 14) return "铂金";
+			else if (mat == 15) return "钻石";
+			else if (mat == 16) return "秘银";
+			else if (mat == 17) return "黑曜石";
+			else if (mat == 18) return "基岩";
+			else if (mat == 19) return "隐石";
+			else if (mat == 20) return "光石";
+			else if (mat == 21) return "暗石";
+			else if (mat == 22) return "圣石";
+			else if (mat == 23) return "狱石";
+			else if (mat >= 24) return "无限";
 		}
 		
 		
@@ -10474,7 +10474,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		
 		this.addEventListener("tick", mainSell.bind(this));
 		function mainSell() {
-			this.popupSale.sale1.text = "Sell 1 for " + format(costs[sellCh].times(sellPrice)) + "$";
+			this.popupSale.sale1.text = "出售 1 得到 " + format(costs[sellCh].times(sellPrice)) + "$";
 			var part = nd(0);
 			if (sellPart == 1) {
 				part = nd(1);
@@ -10488,8 +10488,8 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			else if (sellPart == 4) {
 				part = resources[sellCh];
 			}
-			this.popupSale.sale1.text = "Sell 1 for " + format(costs[sellCh].times(sellPrice)) + "$";
-			this.popupSale.sale2.text = "Sell "+ format(part) + " for " + format(costs[sellCh].times(part).times(sellPrice)) + "$";
+			this.popupSale.sale1.text = "出售 1 得到 " + format(costs[sellCh].times(sellPrice)) + "$";
+			this.popupSale.sale2.text = "出售 "+ format(part) + " 得到 " + format(costs[sellCh].times(part).times(sellPrice)) + "$";
 			
 		}
 		
@@ -11606,11 +11606,11 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		
 		this.addEventListener("tick", main_inv.bind(this));
 		function main_inv() {
-			this.popupEq.dmg.text = "Damage: " + format(inventory[curInv].damage);
+			this.popupEq.dmg.text = "伤害: " + format(inventory[curInv].damage);
 			this.popupEq.dps.text = "DPS: " + format(inventory[curInv].dps);
-			this.popupEq.spd.text = "Speed: " + Math.round(inventory[curInv].speed*100)/100 + "s";
+			this.popupEq.spd.text = "速度: " + Math.round(inventory[curInv].speed*100)/100 + "s";
 			
-			this.popupEq.sellfor.text = "Sell for " + format(itemsCosts[curInv]) + " $";
+			this.popupEq.sellfor.text = "出售得到 " + format(itemsCosts[curInv]) + " $";
 		}
 		
 		
@@ -12732,7 +12732,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.spdTime.parent = this;
 	this.spdTime.setTransform(114.95,655.8,0.7879,0.7858);
 
-	this.spdUP = new cjs.Text("SpeedUP (x2, max 1h)", "bold 18px 'Consolas'");
+	this.spdUP = new cjs.Text("加速 (x2, 最多 1小时)", "bold 18px 'Consolas'");
 	this.spdUP.name = "spdUP";
 	this.spdUP.textAlign = "center";
 	this.spdUP.lineHeight = 23;
@@ -12815,14 +12815,14 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.res.name = "res";
 	this.res.setTransform(995.25,104.9,1,1,0,0,0,126,70.2);
 
-	this.text = new cjs.Text("Click to speed up!", "bold 20px 'Arial'");
+	this.text = new cjs.Text("点击加速!", "bold 20px 'Arial'");
 	this.text.textAlign = "center";
 	this.text.lineHeight = 24;
 	this.text.lineWidth = 204;
 	this.text.parent = this;
 	this.text.setTransform(361.8,601.25);
 
-	this.cspd = new cjs.Text("Cat speed: 200%", "bold 20px 'Arial'");
+	this.cspd = new cjs.Text("小猫速度: 200%", "bold 20px 'Arial'");
 	this.cspd.name = "cspd";
 	this.cspd.textAlign = "center";
 	this.cspd.lineHeight = 24;
@@ -12922,14 +12922,14 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.downCrys.setTransform(761,315.05,1.3926,1.3926,0,0,0,9.7,9.7);
 	new cjs.ButtonHelper(this.downCrys, 0, 1, 2);
 
-	this.crcst = new cjs.Text("Cost: 162,000", "bold 22px 'Arial'", "#806600");
+	this.crcst = new cjs.Text("成本: 162,000", "bold 22px 'Arial'", "#806600");
 	this.crcst.name = "crcst";
 	this.crcst.lineHeight = 27;
 	this.crcst.lineWidth = 173;
 	this.crcst.parent = this;
 	this.crcst.setTransform(577,342.05);
 
-	this.crcr = new cjs.Text("Crystals: 12", "bold 22px 'Arial'", "#660099");
+	this.crcr = new cjs.Text("水晶: 12", "bold 22px 'Arial'", "#660099");
 	this.crcr.name = "crcr";
 	this.crcr.lineHeight = 27;
 	this.crcr.lineWidth = 164;
@@ -12958,7 +12958,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.downTier.setTransform(769.25,275.15,1.3467,1.3467,0,0,0,9.7,9.7);
 	new cjs.ButtonHelper(this.downTier, 0, 1, 2);
 
-	this.needMat = new cjs.Text("Cryptonite x10,000", "bold 22px 'Arial'");
+	this.needMat = new cjs.Text("隐石 x10,000", "bold 22px 'Arial'");
 	this.needMat.name = "needMat";
 	this.needMat.textAlign = "center";
 	this.needMat.lineHeight = 27;
@@ -12978,7 +12978,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.mlv.parent = this;
 	this.mlv.setTransform(520.2,276.75,0.5018,0.5018);
 
-	this.text_1 = new cjs.Text("CRAFT", "bold 22px 'Arial'");
+	this.text_1 = new cjs.Text("制作", "bold 22px 'Arial'");
 	this.text_1.textAlign = "center";
 	this.text_1.lineHeight = 27;
 	this.text_1.lineWidth = 100;
@@ -12989,7 +12989,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.autoProg.name = "autoProg";
 	this.autoProg.setTransform(415.9,69.1,1.5943,1.5943,0,0,0,17.6,6.5);
 
-	this.spd = new cjs.Text("Speed: 0.96s", "bold 18px 'Arial'");
+	this.spd = new cjs.Text("速度: 0.96s", "bold 18px 'Arial'");
 	this.spd.name = "spd";
 	this.spd.textAlign = "center";
 	this.spd.lineHeight = 22;
@@ -13013,7 +13013,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.dmg.parent = this;
 	this.dmg.setTransform(716.1,68.35);
 
-	this.namee = new cjs.Text("Common Mud Pickaxe", "bold 18px 'Arial'");
+	this.namee = new cjs.Text("普通泥镐", "bold 18px 'Arial'");
 	this.namee.name = "namee";
 	this.namee.textAlign = "center";
 	this.namee.lineHeight = 22;
@@ -13057,14 +13057,14 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.sellP2.name = "sellP2";
 	this.sellP2.setTransform(1033.95,18.7,1.5006,1.5006,0,0,0,13.2,8);
 
-	this.cryst = new cjs.Text("Crystals: 100,000", "bold 22px 'Arial'");
+	this.cryst = new cjs.Text("水晶: 100,000", "bold 22px 'Arial'");
 	this.cryst.name = "cryst";
 	this.cryst.lineHeight = 27;
 	this.cryst.lineWidth = 232;
 	this.cryst.parent = this;
 	this.cryst.setTransform(922.25,688.15);
 
-	this.moneyt = new cjs.Text("Money: 100,000", "bold 22px 'Arial'");
+	this.moneyt = new cjs.Text("金钱: 100,000", "bold 22px 'Arial'");
 	this.moneyt.name = "moneyt";
 	this.moneyt.lineHeight = 27;
 	this.moneyt.lineWidth = 232;
@@ -13089,7 +13089,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 	this.prog.parent = this;
 	this.prog.setTransform(277.25,64.05,1.2307,1.2307);
 
-	this.mineLv = new cjs.Text("Mine Level: 0", "bold 12px 'Arial'");
+	this.mineLv = new cjs.Text("矿山等级: 0", "bold 12px 'Arial'");
 	this.mineLv.name = "mineLv";
 	this.mineLv.textAlign = "center";
 	this.mineLv.lineHeight = 16;
