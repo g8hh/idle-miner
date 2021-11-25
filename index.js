@@ -1469,7 +1469,7 @@ p.nominalBounds = new cjs.Rectangle(-1.5,-1.5,34,34);
 	this.text_1.parent = this;
 	this.text_1.setTransform(976.75,514.05);
 
-	this.text_2 = new cjs.Text("使用您的金钱、水晶和资源来制作更好的像素", "bold 15px 'Arial'");
+	this.text_2 = new cjs.Text("使用您的金钱、水晶和资源来制作更好的镐子", "bold 15px 'Arial'");
 	this.text_2.lineHeight = 19;
 	this.text_2.lineWidth = 230;
 	this.text_2.parent = this;
@@ -1691,7 +1691,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,83,24);
 	this.st2.parent = this;
 	this.st2.setTransform(10.8,21.4,0.4576,0.4576);
 
-	this.st1 = new cjs.Text("像素伤害: x1 -> x2", "bold 22px 'Arial'", "#000033");
+	this.st1 = new cjs.Text("镐子伤害: x1 -> x2", "bold 22px 'Arial'", "#000033");
 	this.st1.name = "st1";
 	this.st1.lineHeight = 27;
 	this.st1.lineWidth = 305;
@@ -9426,7 +9426,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			this.upgWindow.u3.change.text = Math.round(x2chance*10000)/100 + "% -> " + Math.round(x2chance_next*10000)/100 + "%";
 			this.upgWindow.u3.cost.text = format(upgrades[2].totalCost) + "$";
 			
-			this.upgWindow.u4.namee.text = "像素伤害";
+			this.upgWindow.u4.namee.text = "镐子伤害";
 			this.upgWindow.u4.change.text = "x" + format(pDamage) + " -> x" + format(pDamage_next);
 			this.upgWindow.u4.cost.text = format(upgrades[3].totalCost) + "$";
 			
@@ -9442,7 +9442,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			this.upgWindow.u7.change.text = "等级." + format(betterCraft) + " -> Lv." + format(betterCraft_next);
 			this.upgWindow.u7.cost.text = format(upgrades[6].totalCost) + "$";
 			
-			this.upgWindow.u8.namee.text = "像素速度";
+			this.upgWindow.u8.namee.text = "镐子速度";
 			this.upgWindow.u8.change.text = "x" + format(betterSpd) + " -> x" + format(betterSpd_next);
 			this.upgWindow.u8.cost.text = format(upgrades[7].totalCost) + "$";
 			
@@ -9487,7 +9487,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 			fallSpd_next = 1 + Math.max(prestigeLv, stageMax)/50;
 			gemMult_next = nd(1 + Math.max(prestigeLv, stageMax)/100);
 			
-			this.presPopup.st1.text = "像素伤害: x" + format(dmgBonus) + " -> " + format(dmgBonus_next);
+			this.presPopup.st1.text = "镐子伤害: x" + format(dmgBonus) + " -> " + format(dmgBonus_next);
 			this.presPopup.st2.text = "掉落速度: x" + format(nd(fallSpd)) + " -> " + format(nd(fallSpd_next));
 			this.presPopup.st3.text = "水晶增益: x" + format(nd(gemMult)) + " -> " + format(nd(gemMult_next));
 			
@@ -10401,7 +10401,7 @@ p.nominalBounds = new cjs.Rectangle(0,-46.3,347.7,406.5);
 		
 		function rarPrefix(rar) {
 			if (rar < 20) {
-				return "可怕的";
+				return "糟糕的";
 			}
 			else if (rar < 30) {
 				return "坏的";
